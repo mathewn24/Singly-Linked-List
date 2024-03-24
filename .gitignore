@@ -1,4 +1,3 @@
-secrets.txt
-a.out
-singlyLinkedList.dYSM
-.vscode
+*
+!.gitignore
+!singlyLinkedList.cpp
